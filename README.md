@@ -13,4 +13,4 @@ ___
 ![Screenshot](captura.png)
 
 ## Authors
-[Elías García](https://github.com/jibsamGarcia)
+[Elías.García](https://github.com/jibsamGarcia)
